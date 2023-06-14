@@ -1,4 +1,4 @@
-# Deep Learning Theory Diiscussion :)
+# Deep Learning Theory Discussion :)
 
 The repository contains lists of papers on theoretical deep learning and how relevant techniques are being used to further enhance deep learning. 
 
@@ -19,5 +19,4 @@ The repository is organized by [Amartya Roy](https://sites.google.com/view/amart
 <!-- Simple islolation -->
    - [Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/pdf/2212.10559.pdf)
       - <details><summary>Amartya's Notes</summary>
-   The article proposes a theoretical understanding of in-context learning (ICL) in large pretrained language models such as GPT. The authors explain language models as meta-optimizers and understand ICL as implicit fine-tuning. They theoretically figure out that Transformer attention has a dual form of gradient descent and provide empirical evidence supporting their understanding. The article also suggests introducing momentum into attention as a potential method to further improve the performance of language models.
-        </details> 
+   The article proposes a theoretical understanding of in-context learning (ICL) in large pretrained language models such as GPT. The authors explain language models as meta-optimizers and understand ICL as implicit fine-tuning. They theoretically figure out that Transformer attention has a dual form of gradient descent and provide empirical evidence supporting their understanding. The article also suggests introducing momentum into attention as a potential method to further improve the performance of language models. </details> 

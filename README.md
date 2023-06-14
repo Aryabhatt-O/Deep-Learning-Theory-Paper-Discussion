@@ -6,6 +6,7 @@ The repository contains lists of papers on theoretical deep learning and how rel
 The repository is organized by [Amartya Roy](https://sites.google.com/view/amartyaroy/home?authuser=0), and [Anirbit Mukherjee](https://sites.google.com/view/anirbit/home)
 
 
+## Important Papers
 
    - [Comparative Generalization Bounds for Deep Neural Networks](https://openreview.net/pdf?id=162TqkUNPO)
       - <details><summary>Amartya's Notes</summary>

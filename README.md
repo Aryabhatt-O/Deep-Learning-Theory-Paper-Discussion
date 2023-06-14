@@ -12,11 +12,8 @@ The repository is organized by [Amartya Roy](https://sites.google.com/view/amart
         </details>  
 
    - [Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers](https://arxiv.org/pdf/2212.10559.pdf)
-      - <details><summary>Amartya's Notes</summary>      
-a
+      - <details><summary>Amartya's Notes</summary>a   
+
         </details>
        
-   - []()
-      - <details><summary>Amartya's Notes</summary>
 
-        </details> 

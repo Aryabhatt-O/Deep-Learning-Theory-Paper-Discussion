@@ -1,5 +1,8 @@
 # Deep Learning Theory Discussion :)
 
+>![image](https://www.fromthegenesis.com/wp-content/uploads/2018/06/Gradie_Desce.jpg)
+
+
 The repository contains lists of papers on theoretical deep learning and how relevant techniques are being used to further enhance deep learning. 
 
 The repository is organized by [Amartya Roy](https://sites.google.com/view/amartyaroy/home?authuser=0), and [Anirbit Mukherjee](https://sites.google.com/view/anirbit/home)
